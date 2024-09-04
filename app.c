@@ -175,6 +175,11 @@ int main(int argc, char *argv[]) {
     else if (strcmp(argv[1], "help") == 0) {
         show_help();
     }
+    /*
+    TODO: 
+    * Implement a feature to edit an existing task's description.
+    */
+
     else {
         printf("Invalid Command. Type 'help' to list the commands.\n");
     }
