@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define MAX_TASKS 20
+#define MAX_TASKS 100
 #define TASK_DESC_LENGTH 256
 #define FILE_NAME "tasks.txt"
 
@@ -206,7 +206,10 @@ int main(int argc, char *argv[])
 
     /*
     TODO:
-    * Implement a feature to edit an existing task's description.
+    * Enable Editing: Implement a feature to edit an existing task's description.
+    * Time Stamping: Automatically record the creation time of each task.
+    * Deadlines: Enable users to set due dates for tasks, helping with prioritization and time management.
+    * Visual Indicator (e.g., color-coding) to highlight tasks with deadlines that are approaching or overdue.
     */
 
     else
