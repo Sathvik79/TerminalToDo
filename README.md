@@ -26,7 +26,7 @@ A simple command-line To-Do list application written in C, allowing you to manag
 
 2. **Compile the Program**:
     ```sh
-    gcc todo.c -o app 
+    gcc app.c -o app 
     ```
 
 3. **Run the Application**:
