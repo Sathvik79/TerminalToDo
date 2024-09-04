@@ -8,6 +8,7 @@ A simple command-line To-Do list application written in C, allowing you to manag
 - **List Tasks**: Display all tasks with their completion status.
 - **Complete Task**: Mark a specific task as completed.
 - **Delete Task**: Remove a specific task from your list.
+- **Help**: Lists all the commands.
 
 ## Getting Started
 
